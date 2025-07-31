@@ -9,3 +9,6 @@ except _meta.PackageNotFoundError:         # pragma: no cover
 
 def hello() -> str:
     return "Hello from xytb!"
+
+def hi() -> str:
+    return "Hi from xytb" 
