@@ -12,3 +12,6 @@ def hello() -> str:
 
 def hi() -> str:
     return "Hi from xytb" 
+
+def bye() -> str:
+    return "Bye from xytb"
